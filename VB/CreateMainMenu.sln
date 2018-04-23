@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "CreateMainMenu", "CreateMainMenu.vbproj", "{A61B2A3C-0C86-4183-A52F-D0B6DC40A692}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A61B2A3C-0C86-4183-A52F-D0B6DC40A692}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A61B2A3C-0C86-4183-A52F-D0B6DC40A692}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A61B2A3C-0C86-4183-A52F-D0B6DC40A692}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A61B2A3C-0C86-4183-A52F-D0B6DC40A692}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
